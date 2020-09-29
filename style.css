@@ -1,0 +1,59 @@
+body {
+    background-image: url(bg.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    
+    
+}
+main {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.title {
+    text-align: center;
+    margin-top: 70px;
+    font-family: fantasy;
+    color: rgb(255, 253, 123);
+    font-size: 30px;
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.39);
+    
+}
+
+.comp {
+margin-top: 100px;
+height: 100px;
+width: 1150px;
+}
+
+.buton {
+    margin-top: 120px;
+    width: 300px;
+    min-height: 20px;
+    border-radius: 25px;
+    background-color: rgb(255, 174, 35);
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    box-shadow: 3px 3px rgba(73, 51, 1, 0.308);
+    
+}
+
+.buton h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: rgb(153, 99, 0);
+}
